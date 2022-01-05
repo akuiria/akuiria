@@ -10,6 +10,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuiria)](https://github.com/akuiria/github-readme-stats)
 
+[![akuiria's github activity graph](https://activity-graph.herokuapp.com/graph?username=akuiria&theme=dracula)](https://github.com/akuiria/github-readme-activity-graph)
+
+
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
