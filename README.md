@@ -12,7 +12,7 @@
 
 [![akuiria's github activity graph](https://activity-graph.herokuapp.com/graph?username=akuiria&theme=dracula)](https://github.com/akuiria/github-readme-activity-graph)
 
-
+[![akuiria](https://github-profile-trophy.vercel.app/?username=akuiria&theme=onedark)](https://github.com/akuiria/github-profile-trophy)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
