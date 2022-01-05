@@ -14,6 +14,8 @@
 
 [![akuiria](https://github-profile-trophy.vercel.app/?username=akuiria&theme=onedark)](https://github.com/akuiria/github-profile-trophy)
 
+[![akuiria](https://github-readme-streak-stats.herokuapp.com/?user=akuiria)](https://git.io/streak-stats)
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
