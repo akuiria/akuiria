@@ -4,17 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Visitor Count](https://profile-counter.glitch.me/akuiria/count.svg)
-
-![akuiria's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuiria&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuiria)](https://github.com/akuiria/github-readme-stats)
-
-[![akuiria's github activity graph](https://activity-graph.herokuapp.com/graph?username=akuiria&theme=dracula)](https://github.com/akuiria/github-readme-activity-graph)
-
-[![akuiria](https://github-profile-trophy.vercel.app/?username=akuiria&theme=onedark)](https://github.com/akuiria/github-profile-trophy)
-
-[![akuiria](https://github-readme-streak-stats.herokuapp.com/?user=akuiria)](https://git.io/streak-stats)
+---
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
@@ -42,3 +32,18 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/akuiria/count.svg)
+
+![akuiria's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuiria&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuiria)](https://github.com/akuiria/github-readme-stats)
+
+[![akuiria's github activity graph](https://activity-graph.herokuapp.com/graph?username=akuiria&theme=dracula)](https://github.com/akuiria/github-readme-activity-graph)
+
+[![akuiria](https://github-profile-trophy.vercel.app/?username=akuiria&theme=onedark)](https://github.com/akuiria/github-profile-trophy)
+
+[![akuiria](https://github-readme-streak-stats.herokuapp.com/?user=akuiria)](https://git.io/streak-stats)
+
