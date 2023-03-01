@@ -41,7 +41,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuiria)](https://github.com/akuiria/github-readme-stats)
 
-[![akuiria's github activity graph](https://activity-graph.herokuapp.com/graph?username=akuiria&theme=dracula)](https://github.com/akuiria/github-readme-activity-graph)
+[![akuiria's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akuiria&theme=dracula)](https://github.com/akuiria/github-readme-activity-graph)
 
 [![akuiria](https://github-profile-trophy.vercel.app/?username=akuiria&theme=onedark)](https://github.com/akuiria/github-profile-trophy)
 
