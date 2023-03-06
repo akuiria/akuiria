@@ -54,5 +54,3 @@
 
 [![akuiria](https://github-profile-trophy.vercel.app/?username=akuiria&theme=onedark)](https://github.com/akuiria/github-profile-trophy)
 
-[![akuiria](https://github-readme-streak-stats.herokuapp.com/?user=akuiria)](https://git.io/streak-stats)
-
